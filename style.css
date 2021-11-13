@@ -1,0 +1,42 @@
+body{
+    background-color: #CEE2E6;
+    margin: auto;
+}
+#title{
+    text-align: center;
+}
+#titledesc{
+    text-align: center;
+    font-size: 24px;
+}
+figure{
+    background-color:white;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    padding: 10px;
+    margin: auto;
+}
+img{
+    height: 442px;
+    width: 750px;
+}
+figcaption{
+    margin-top: 10px;
+}
+ul{
+    max-width: 500px;
+    margin: auto;
+    text-align: left;
+    line-height: 2.5;
+}
+h3{
+    text-align: center;
+}
+#quote{
+    background-color: white;
+    text-align:center;
+    font-size: 18px;
+    padding: 15px;
+    margin-top: 30px;
+}
